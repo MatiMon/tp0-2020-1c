@@ -1,0 +1,15 @@
+[INFO] 17:36:52:538 tp0/(3639:3639): Soy un log
+[INFO] 17:36:52:539 tp0/(3639:3639): Se realizo la conexion
+[INFO] 17:36:52:539 tp0/(3639:3639): Se envio un mensaje
+[INFO] 17:36:52:539 tp0/(3639:3639): mensaje de prueba
+[INFO] 17:36:52:539 tp0/(3639:3639): Se termino el programa
+[INFO] 17:40:48:856 tp0/(3773:3773): Soy un log
+[INFO] 17:40:48:863 tp0/(3773:3773): Se realizo la conexion
+[INFO] 17:40:48:863 tp0/(3773:3773): Se envio un mensaje
+[INFO] 17:40:48:866 tp0/(3773:3773): Soy un mensaje
+[INFO] 17:40:48:866 tp0/(3773:3773): Se termino el programa
+[INFO] 16:49:15:281 tp0/(3918:3918): Soy un log
+[INFO] 16:49:15:283 tp0/(3918:3918): Se realizo la conexion
+[INFO] 16:49:15:284 tp0/(3918:3918): Se envio un mensaje
+[INFO] 16:49:15:286 tp0/(3918:3918): Soy un mensaje
+[INFO] 16:49:15:287 tp0/(3918:3918): Se termino el programa
